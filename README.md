@@ -8,4 +8,4 @@
 - 😄 Pronouns: he/him/they
 - ⚡ Fun fact: I like cheese.
 
-[![aww yeah](https://randos.online/u/pmn)](https://randos.online/u/chobberoni/next)
+[![aww yeah](https://randos.online/u/chobberoni/next)]
