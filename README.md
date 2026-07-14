@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’ve most recently built [GOJI NYC](https://gojinyc.com/)
+- 🔭 Previously built [GOJI NYC](https://gojinyc.com/)
 - 🌱 I’m currently learning [Rao-Blackwell Theorem](https://www.youtube.com/watch?v=YQIbqScdtHg)
 - 👯 I’m looking to collaborate on stock trading bots
 - 💬 Ask me about Product Management
