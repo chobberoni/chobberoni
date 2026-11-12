@@ -1,11 +1,16 @@
-### Hi there 👋
+### Corey Hobbs
 
-- 🔭 Previously built [GOJI NYC](https://gojinyc.com/)
-- 🌱 I’m currently learning [Rao-Blackwell Theorem](https://www.youtube.com/watch?v=YQIbqScdtHg)
-- 👯 I’m looking to collaborate on stock trading bots
-- 💬 Ask me about Product Management
-- 📫 How to reach me: [Twitter](https://twitter.com/chobberoni)
-- 😄 Pronouns: he/him/they
-- ⚡ Fun fact: I like cheese.
+Product-minded builder working on AI safety and compliance at [ZeroDrift](https://zerodrift.ai). I turn rough ideas into shipped products.
 
-[![You have this many friends](https://www.randos.online/u/chobberoni)](https://randos.online/u/chobberoni/next)
+**Now**
+- Building ZeroDrift: PII detection and compliance checks that run before AI-written content leaves the building.
+
+**Built**
+- [GOJI NYC](https://gojinyc.com/)
+- [Extro](https://extroapp.com/)
+
+**Ask me about**
+Product management, shipping with AI agents, and the stock-trading side projects I keep restarting.
+
+**Find me**
+[Twitter](https://twitter.com/chobberoni) · [ZeroDrift](https://zerodrift.ai) · he/him/they
